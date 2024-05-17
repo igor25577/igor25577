@@ -5,7 +5,7 @@
 - 🧠 Busco trabalhar com Back-end na area de banco de dados
 - ⚡ Uma curiosidade interessante, é que mesmo durante a infancia tendo pouco contato com tecnologia, foi a area pela qual mais me      interessei.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igor255&theme=blue-green&show_icons=true)
+![igor25577 GitHub stats](https://github-readme-stats.vercel.app/api?username=Igor255&theme=blue-green&show_icons=true)
 
 
 <div style="display: inline_block"><br>
