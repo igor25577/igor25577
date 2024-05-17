@@ -3,7 +3,7 @@
 - 🔭 Hoje eu foco mais na area de C#
 - 🌱 Estudando .NET
 - 🧠 Busco trabalhar com Back-end na area de banco de dados
-- ⚡ Uma curiosidade interessante, é que mesmo durante a infancia tendo pouco contato com tecnologia, foi a area pela qual mais me      interessei.
+- ⚡ Uma curiosidade interessante, é que mesmo durante a infancia tendo pouco contato com tecnologia, foi a area pela qual mais me interessei.
 
 ![Igor25577 GitHub stats](https://github-readme-stats.vercel.app/api?username=Igor25577&theme=blue-green&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor25577&layout=compact)
